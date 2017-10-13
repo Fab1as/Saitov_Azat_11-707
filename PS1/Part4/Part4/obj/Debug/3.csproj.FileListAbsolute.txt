@@ -1,0 +1,7 @@
+C:\Users\Администратор\source\repos\Part4\Part4\bin\Debug\Part4.exe.config
+C:\Users\Администратор\source\repos\Part4\Part4\bin\Debug\Part4.exe
+C:\Users\Администратор\source\repos\Part4\Part4\bin\Debug\Part4.pdb
+C:\Users\Администратор\source\repos\Part4\Part4\obj\Debug\3.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\source\repos\Part4\Part4\obj\Debug\3.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Part4\Part4\obj\Debug\Part4.exe
+C:\Users\Администратор\source\repos\Part4\Part4\obj\Debug\Part4.pdb

@@ -1,0 +1,7 @@
+c:\users\администратор\source\repos\Ppart2\Ppart2\bin\Debug\Ppart2.exe.config
+c:\users\администратор\source\repos\Ppart2\Ppart2\bin\Debug\Ppart2.exe
+c:\users\администратор\source\repos\Ppart2\Ppart2\bin\Debug\Ppart2.pdb
+c:\users\администратор\source\repos\Ppart2\Ppart2\obj\Debug\Part2.csprojResolveAssemblyReference.cache
+c:\users\администратор\source\repos\Ppart2\Ppart2\obj\Debug\Part2.csproj.CoreCompileInputs.cache
+c:\users\администратор\source\repos\Ppart2\Ppart2\obj\Debug\Ppart2.exe
+c:\users\администратор\source\repos\Ppart2\Ppart2\obj\Debug\Ppart2.pdb
