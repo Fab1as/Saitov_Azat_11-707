@@ -22,8 +22,9 @@ namespace _9
             else if (b > 0 && a != 0) Console.Write($"+{b}*x");
             else if (b > 0 && a == 0) Console.Write($"{b}*x");
 
-            if (b < 0) Console.WriteLine(c);
-            else if (b > 0) Console.WriteLine($"+{c}");
+            if (c < 0) Console.WriteLine(c);
+            else if ((a != 0 || b != 0) && c > 0) Console.WriteLine($"+{c}");
+            else if (c > 0) Console.WriteLine(c);
         }
     }
 }

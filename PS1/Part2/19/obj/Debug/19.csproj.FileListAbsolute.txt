@@ -1,2 +1,0 @@
-C:\Users\Администратор\source\repos\Part2\19\obj\Debug\19.csprojResolveAssemblyReference.cache
-C:\Users\Администратор\source\repos\Part2\19\obj\Debug\19.csproj.CoreCompileInputs.cache
