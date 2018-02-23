@@ -46,13 +46,12 @@ namespace TrainingApp
 
         public void Insert(char c, bool pushStack)
         {
-            if (_undone.Count != 0)
-                _undone.Clear();
-
             Text[Row] = Text[Row].Insert(Col,c.ToString());
 
             if (pushStack)
             {
+                if (_undone.Count != 0)
+                _undone.Clear();
                 _done.Push(new Operation()
                 {
                     Type = Operations.Insert,
@@ -65,14 +64,12 @@ namespace TrainingApp
 
         public void DeleteChar(bool pushStack)
         {
-            if (_undone.Count != 0)
-                _undone.Clear();
-
             Text[Row] = Text[Row].Remove(Col, 1);
 
             if (pushStack)
             {
-
+                if (_undone.Count != 0)
+                    _undone.Clear();
                 _done.Push(new Operation()
                 {
                     Type = Operations.DeleteChar,
