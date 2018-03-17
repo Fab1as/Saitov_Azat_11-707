@@ -1,0 +1,7 @@
+C:\Users\Администратор\source\repos\Semestrovochka\Semestrovochka\bin\Debug\Semestrovochka.exe.config
+C:\Users\Администратор\source\repos\Semestrovochka\Semestrovochka\bin\Debug\Semestrovochka.exe
+C:\Users\Администратор\source\repos\Semestrovochka\Semestrovochka\bin\Debug\Semestrovochka.pdb
+C:\Users\Администратор\source\repos\Semestrovochka\Semestrovochka\obj\Debug\Semestrovochka.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\source\repos\Semestrovochka\Semestrovochka\obj\Debug\Semestrovochka.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\Semestrovochka\Semestrovochka\obj\Debug\Semestrovochka.exe
+C:\Users\Администратор\source\repos\Semestrovochka\Semestrovochka\obj\Debug\Semestrovochka.pdb
